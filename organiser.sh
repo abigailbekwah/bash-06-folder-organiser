@@ -89,7 +89,6 @@ fi
     echo " $filename → $category/$final_name"
         ((COUNT++))
 
-done 
 echo "Done: $COUNT files moved."
 
 
