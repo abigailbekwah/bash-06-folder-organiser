@@ -88,7 +88,7 @@ fi
      final_name=$(basename "$destination")
     echo " $filename → $category/$final_name"
         ((COUNT++))
-fi
+
 done 
 echo "Done: $COUNT files moved."
 
