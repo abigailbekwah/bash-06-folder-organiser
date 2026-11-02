@@ -1,0 +1,80 @@
+# bash-Folder-organiser
+
+Bash-folder-organiser built to structure files into different categories and putting them in their folders.
+
+## Problem_Statement​
+
+Look at your Downloads folder. Photos, PDFs, installers, ZIP files, CVs, all mixed together. Your mission: build organise.sh, a tool that tidies any folder in seconds by sorting files into sub-folders by type.
+
+## 📌 Project Goals​
+
+- Automated File Categorization
+
+- Non-Destructive Execution
+
+- On-Demand Folder Creation
+
+- Data Loss Prevention
+
+- Fault Tolerance & Resilience
+
+- User Feedback & Logging
+
+## Tech stack
+
+- Bash
+- ShellCheck
+- Git & Github
+
+## screenshot
+
+![bash script] ![alt text](<asset/image/Screenshot From 2026-11-01 17-36-43.png>)
+
+## Features
+
+- Case-Insensitive File Matching
+
+- Non-Recursive Processing
+
+- On-Demand Folder Creation
+
+- Collision Protection (No Overwriting) 
+
+- Self-Exclusion
+
+- Execution Logging & Summary
+
+## installation and setup
+
+clone the repository
+
+```bash
+git clone https://github.com/abigailbekwah/bash-Folder-organiser.git
+- chmod +x organiser.sh
+- ./organiser.sh
+```
+
+## Challenges faces
+
+Heading linter errors
+How to follow the right path of the task
+Runing the codes in the terminal
+Reading the question and interpret it into command in the VS code
+
+## 📚 what i learnt
+
+How to understand the question better
+I was able to run some few command
+Get to know how to run my codes on the terminal
+Correcting my syntex errors
+
+## Author​
+
+Bekwah Abigail Becky
+
+Junior bash developer
+
+👨🏽‍💻 Email: <abigailbekwah@gmail.com>​
+
+🌍 Based in Cameroon | Open to remote opportunities
+Was able to understand the question at a point
